@@ -1,1 +1,3 @@
-print("Hello, World!")
+Hello World em Python
+
+Este é um programa simples em Python que imprime "Hello, World!" na saída.
